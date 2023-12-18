@@ -19,6 +19,7 @@ function partOne() {
   // console.log(values);
   return values.reduce((s, v) => s + v);
 }
+
 // console.log(partOne());
 
 function partTwo() {
